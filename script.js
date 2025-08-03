@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io(window.location.hostname === 'localhost' ? 'http://localhost:3000' : '/');
 let team = "";
 let isAdmin = false;
 let currentPlayer = "";
