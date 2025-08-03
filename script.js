@@ -1,4 +1,4 @@
-const socket = io(window.location.hostname === 'localhost' ? 'http://localhost:3000' : '/');
+const socket = io(window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://football-auction-app-new.vercel.app');
 let team = "";
 let isAdmin = false;
 let currentPlayer = "";
