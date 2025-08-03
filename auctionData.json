@@ -1,0 +1,255 @@
+{
+  "player": "",
+  "amount": 0,
+  "bidder": "",
+  "timer": 0,
+  "teams": {
+    "QFKCUVZ577-hhfuPAAAJ": {
+      "name": "Team A",
+      "budget": 9967,
+      "purchasedPlayers": [
+        "kolo",
+        "j",
+        "y",
+        "k",
+        "job",
+        "r",
+        "k",
+        "r",
+        "ty",
+        "r",
+        "r",
+        "er",
+        "r"
+      ]
+    },
+    "lil4yEgH2HduLRcnAAAN": {
+      "name": "Team B",
+      "budget": 9940,
+      "purchasedPlayers": [
+        "Juan"
+      ]
+    },
+    "Da6uMOcDRa9oK6SzAAAR": {
+      "name": "Team C",
+      "budget": 9980,
+      "purchasedPlayers": [
+        "t"
+      ]
+    },
+    "zk2A8zP20EQBb2WXAAAN": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "gwRCwitqKWhK4sF3AAAP": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "BYSOqd8j6oQzPX15AAAG": {
+      "name": "Team B",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "rnQs832Jun6NtwXiAAAF": {
+      "name": "Team c",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "SC9BUsSgeFzA5snkAAAR": {
+      "name": "Team C",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "izB6KnVBCYp8ZKeTAAAT": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "p7WyWMCOx6NIVCHYAAAN": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "pC2qRrrD3p0Aarj-AAAP": {
+      "name": "Team B",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "Qnq3AFS4XVowxgoTAAAR": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "CMZHl1-xVpxj1XXzAAAL": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "tpRKXe1YWJkVWbiOAAAR": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "M-6w6GAfzjm13t3vAAAP": {
+      "name": "Team A",
+      "budget": 10000,
+      "purchasedPlayers": []
+    },
+    "QOfuOipIzoY_a1PkAAAH": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "5JsHZhGlajnZEmhhAAAJ": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "z2UMUT57lx_fDD2bAAAL": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "0ogGeenLssy5NMUDAAAJ": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "oJMGLZagQ2SUAzoWAAAL": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "kbfNiFjkRlW6PrRQAAAP": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "BYj4Pfm5Fi8LNiwNAAAR": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "Zf_weIXMN5161UM9AAAX": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "tnbbDzAoXDdhI6xaAAAT": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "h8uIp9ZWOL6v9XVuAAAV": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "lFocM_vauaFaIliSAAAV": {
+      "name": "Team A",
+      "budget": 234,
+      "purchasedPlayers": []
+    },
+    "Eoe9yZ4xI29twgoMAAAV": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "Jk_GY_fKTD2tiFhJAAAF": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "nIjwfZwwLydP2FC3AAAH": {
+      "name": "Team A",
+      "budget": 100,
+      "purchasedPlayers": []
+    },
+    "iVJlg_LncyXNS97pAAAJ": {
+      "name": "Team C",
+      "budget": 300,
+      "purchasedPlayers": []
+    }
+  },
+  "history": [
+    {
+      "player": "Juan",
+      "amount": 60,
+      "bidder": "Team B"
+    },
+    {
+      "player": "kolo",
+      "amount": 10,
+      "bidder": "Team A"
+    },
+    {
+      "player": "j",
+      "amount": 10,
+      "bidder": "Team A"
+    },
+    {
+      "player": "y",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "k",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "job",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "r",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "k",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "r",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "ty",
+      "amount": 2,
+      "bidder": "Team A"
+    },
+    {
+      "player": "r",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "r",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "er",
+      "amount": 2,
+      "bidder": "Team A"
+    },
+    {
+      "player": "r",
+      "amount": 1,
+      "bidder": "Team A"
+    },
+    {
+      "player": "t",
+      "amount": 20,
+      "bidder": "Team C"
+    }
+  ],
+  "maxMoney": 300,
+  "bidIncrement": 20
+}

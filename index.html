@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Auction</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+<body>
+  <div id="login">
+    <h2>Enter Team Name</h2>
+    <input id="teamInput" placeholder="e.g. Team A or admin">
+    <button onclick="login()">Enter</button>
+  </div>
+
+  <div id="auction" style="display:none;">
+    <h2 id="welcome"></h2>
+    <div id="playerInfo"></div>
+    <div id="biddingArea">
+      <button onclick="placeBid()">Place Bid</button>
+      <p id="bidStatus"></p>
+    </div>
+    <div id="balanceInfo"></div> <!-- Balance Info for Team -->
+    <div id="purchasedPlayersInfo"></div> <!-- Purchased Players Info -->
+  </div>
+
+  <!-- Admin Panel for Admin User -->
+  <div id="adminPanel" style="display:none;">
+    <h3>Admin Controls</h3>
+    <input id="maxMoneyInput" type="number" placeholder="Max Money for Player">
+    <input id="bidIncrementInput" type="number" placeholder="Bid Increment (e.g., 100)">
+    <button onclick="startAuction()">
+  <i class="fa fa-soccer-ball-o"></i> Start Auction
+</button>
+     <!-- Reset Auction Button -->
+  <button onclick="resetAuction()">Reset Auction</button>
+  </div>
+
+  <div id="playerPanel" style="display:none;">
+    <input id="playerNameInput" placeholder="Enter Player Name">
+    <button onclick="startAuctionForPlayer()">Start Auction for Player</button>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
